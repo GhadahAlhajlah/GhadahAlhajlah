@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GhadahMutairi
+- 👋 Hi, I’m Ghadah Almutairi 
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Java, Python, JavaScript, Flutter, SQL
-- 💞️ I’m looking to collaborate on open source projects
+- 🌱 I’m currently learning Java, Python, JavaScript, XML, PHP, HTML, SQL
+- 💞️ I’m looking to collaborate on an open source project
 - 📫 How to reach me http://linkedin.com/in/ghadah-almutairi-64064a210
 
 <!---
