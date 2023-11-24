@@ -1,4 +1,4 @@
-- Hello, I’m Ghadah Naif Alhajlah 
+- Hello, I’m Ghadah Alhajlah 
 - A hard-Working computer science student who's interested in software engineering & development.
 - Familiar with Java, JavaScript, XML, CSS, HTML, SQL, Java EE, Servlet
 - I’m looking forward to collaborate on an open source project
